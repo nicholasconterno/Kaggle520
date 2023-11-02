@@ -121,4 +121,4 @@ The final thing I think could really help this algorithm is Synthetic Minority O
 
 ## Final Thoughts
 
-Overall, I learned a lot about working with tabular data and prediction models. I learned that ensemble mdoels tend to do well with tabular data, and that neural networks might benefit from more data, but in this case, may not be the best model for the job.
+Overall, I learned a lot about working with tabular data and prediction models. I learned that ensemble models tend to do well with tabular data, and that neural networks might benefit from more data, but in this case, may not be the best model for the job.
